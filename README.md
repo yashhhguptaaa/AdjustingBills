@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ## Website
-`https://bills11.herokuapp.com/`
+[https://bills11.herokuapp.com/](https://bills11.herokuapp.com/) to view the application
 
 ## Available Scripts
 
